@@ -13,13 +13,13 @@ main {
   width: 100%;
   display: flex;
 }
-.image {
+/* .image {
   height: 739px;
   float: right;
   background-image: url("https://source.unsplash.com/De8wMYoSSBc");
   padding: 0px;
-  width: 60%;
-}
+  width: 600px;
+} */
 .text {
   margin-top: 22%;
   width: 40%;
